@@ -1,2 +1,2 @@
-# WebsiteTraining
+# Дмитрий Кузнецов
 My first website
